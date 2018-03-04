@@ -1,0 +1,23 @@
+{
+    "owner": "0x325763d3202527a2ca3df4bd892a177049ba0ff0",
+    "team": "0x72fe866e5583c3f9ec065e29f6bc29ae0c2c2be7",
+    "ecosystem": "0x27c095160bcd043cafa2aefb367606d4b4b6b30d",
+    "cnetops": "0x7f5d3ec14d1bec615fbe0c158372c3ba04e5c73c",
+    "partners": "0x877899e4dd08cbbda27c7dd56f9c7312a801ffa1",
+    "referrals": "0x0c0072015fad65843f837d7b50de9a8b80236642",
+    "wallet": {
+        "owners": [
+            "0xf1d265ba0cf8daa58e240be4eb83d201abbb6461",
+            "0xd59dfbc35df5229eba3a64ac9ea34ceffd6b57e2",
+            "0x2921174c32cb4e4b0b1d2757365e387c4530bc67"
+        ],
+        "required": 2
+    },
+    "rate": "900",
+    "presale": {
+        "durationInDays": 30,
+        "cap": 6000
+    },
+    "crowdsale": {
+    }
+}
